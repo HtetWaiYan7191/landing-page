@@ -1,10 +1,12 @@
 import React from 'react'
-
+import Introduction from './components/Introduction'
+import Navbar from './components/Navbar'
 const App = () => {
   return (
-    <div className=' text-red-400'>
-      This is app 
-    </div>
+   <>
+    <Navbar/>
+    <Introduction/>
+   </>
   )
 }
 
