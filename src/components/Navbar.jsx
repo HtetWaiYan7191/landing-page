@@ -4,7 +4,7 @@ import {BiLockOpen} from 'react-icons/bi'
 
 const Navbar = () => {
   return (
-    <nav id='navbar-wrapper' className='navbar-section border-b fixed top-0 left-0 w-[100%]'>
+    <nav id='navbar-wrapper' className='navbar-section border-b fixed top-0 left-0 w-[100%] z-10 backdrop-blur-sm bg-white/80'>
         <div className="navbar-container flex justify-around items-center py-4">
             <h2 className='text-3xl text-green-500 font-semibold'>Practice</h2>
             <ul className='navbar-list flex'>
