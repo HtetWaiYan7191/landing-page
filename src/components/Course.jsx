@@ -9,6 +9,7 @@ const Course = () => {
             <p className=' text-gray-500 text-sm tracking-wide mt-3'>Various verions have evolved over the years, sometimes by accident</p>
             <CourseCarousel/>
         </div>
+        
     </section >
   )
 }
