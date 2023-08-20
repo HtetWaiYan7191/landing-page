@@ -2,13 +2,13 @@ import React from 'react'
 
 const CourseCarouselCard = ({course}) => {
   return (
-    <div className='course-card  bg-white rounded-2xl overflow-hidden drop-shadow-md ' key={course.id}>
+    <div className='course-card  bg-white rounded-2xl overflow-hidden shadow-sm me-3 ' key={course.id}>
     <figure className='relative'>    
-    <img src={course.courseImage} alt="" className='w-full h-40 object-cover' />
-    <span className='absolute top-3 left-2 py-1 px-2 bg-gray-50/50 backdrop-blur-sm rounded-md text-sm font-semibold'>{course.name}</span>
+    <img src={course.linkImg} alt="" className='w-full h-40 object-cover' />
+    <span className='absolute course-category top-3 left-2 py-1 px-2 bg-gray-50/50 backdrop-blur-sm rounded-md text-sm font-semibold'>{course.category}</span>
     </figure>
 
-<p className='truncate p-3 text-lg font-semibold'>{course.description}</p>
+<p className='truncate p-3 text-lg font-semibold'>{course.title}</p>
 <div className='course-rating-container flex border-b my-2 py-2 px-2'>
     <div className='star-container me-4 '>
     {course.starRating === 5 ? (
