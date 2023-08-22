@@ -47,7 +47,6 @@ const CourseCarousel = () => {
   
   return (
 
-    // <div className='course-carousel-container max-w-[600px] md:max-w-[1480px] m-auto grid grid-cols-4 gap-8 py-10 mt-3 '> 
     <Slider {...settings} className=' mt-10 px-1 py-5 '>
     {
       courses.map((course) => (
@@ -55,9 +54,6 @@ const CourseCarousel = () => {
       ))
     }
     </Slider>
-
-  
-  // </div>
  
   
   )
