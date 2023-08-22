@@ -6,8 +6,7 @@
       category:'Flutter',
       starRating:5,
       price: '$59.99',
-      linkImg:
-      'https://imgs.search.brave.com/YrWdDcc30vLk1ujOOb2T7YspGn9p6AsTC4LbTGaWiJI/rs:fit:480:270:1/g:ce/aHR0cHM6Ly93ZWVr/Y291cnNlcmV2aWV3/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8wNS9mbHV0/dGVyLWJvb3RjYW1w/LXdpdGgtZGFydC1p/bWcuanBn'
+      linkImg:'https://imgs.search.brave.com/uU8P00OZP_03iYvlsfr8McoIALLj_vrPI9qGAYUn1eA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcHJhY3RpY2Fs/ZGV2L2ltYWdlL2Zl/dGNoL3MtLWp4cHRH/SHBlLS0vY19saW1p/dCxmX2F1dG8sZmxf/cHJvZ3Jlc3NpdmUs/cV9hdXRvLHdfODgw/L2h0dHBzOi8vMS5i/cC5ibG9nc3BvdC5j/b20vLUF3X0k5VGE3/ZzF3L1hUZ0RtUk8y/cTBJL0FBQUFBQUFB/WnpJL2tIM2dPVFZ1/dHBzMlZzS3c1WG9f/TG9NSWZXZjBKS0Zt/UUNFd1lCaGdML3M0/MDAvYmVzdCUyQmNv/dXJzZSUyQnRvJTJC/bGVhcm4lMkJGbHV0/dGVyVGhlJTJCQ29t/cGxldGUlMkJGbHV0/dGVyJTJCRGV2ZWxv/cG1lbnQlMkJCb290/Y2FtcCUyQndpdGgl/MkJEYXJ0JTJCLSUy/Qkdvb2dsZS5qcGc'
     },
     {
       id: 2,
