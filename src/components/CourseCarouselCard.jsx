@@ -2,7 +2,7 @@ import React from 'react'
 
 const CourseCarouselCard = ({course}) => {
   return (
-    <div className='course-card  bg-white rounded-2xl overflow-hidden shadow-sm me-3 ' key={course.id}>
+    <div className='course-card  bg-white rounded-2xl overflow-hidden shadow-sm me-3' key={course.id}>
     <figure className='relative'>    
     <img src={course.linkImg} alt="" className='w-full h-40 object-cover' />
     <span className='absolute course-category top-3 left-2 py-1 px-2 bg-gray-50/50 backdrop-blur-sm rounded-md text-sm font-semibold'>{course.category}</span>

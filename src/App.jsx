@@ -5,6 +5,7 @@ import Course from './components/Course'
 import '../src/App.css'
 import Achievement from './components/Achievement'
 import Categories from './components/Categories'
+import Feedback from './components/Feedback'
 const App = () => {
   return (
    <>
@@ -13,6 +14,7 @@ const App = () => {
     <Course/>
     <Achievement/>
     <Categories/>
+    <Feedback/>
    </>
   )
 }
