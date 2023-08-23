@@ -7,7 +7,7 @@ import people from '../assets/people.png';
 
 const Achievement = () => {
   return (
-    <section className='achievement-section flex justify-center  items-center'>
+    <section className='achievement-section flex justify-center  items-center' id='achievement-wrapper'>
       <div className='achievement-container flex justify-center items-center w-[80%] h-[547px] '>
         <div className="achievement-info me-32 pe-32">
             <div className="achievement-title">
