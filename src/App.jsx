@@ -6,6 +6,7 @@ import '../src/App.css'
 import Achievement from './components/Achievement'
 import Categories from './components/Categories'
 import Feedback from './components/Feedback'
+import Register from './components/Register'
 const App = () => {
   return (
    <>
@@ -15,6 +16,7 @@ const App = () => {
     <Achievement/>
     <Categories/>
     <Feedback/>
+    <Register/>
    </>
   )
 }
