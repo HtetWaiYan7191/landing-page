@@ -19,3 +19,23 @@
  .slick-prev:before {
     z-index: 10;
  }
+
+ .category-card {
+   transform: scale(1);
+   transition: all 0.4s ease;
+ }
+ .category-card:hover {
+   transform: scale(0.9);
+   transition: all 0.4s ;
+   background-color:rgba(102, 210, 102, 0.5);
+ }
+
+
+ .course-card {
+   transform: scale(1);
+   transition: all 0.4s ease;
+ }
+ .course-card:hover {
+   transform: scale(0.9);
+   transition: all 0.4s ease;
+ }
