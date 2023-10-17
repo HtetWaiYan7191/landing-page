@@ -1,4 +1,4 @@
-import penNib from './categoriesImage/penNib.png';
+import penNib from './categoriesImage/PenNib.png';
 import fileHtml from './categoriesImage/FileHtml.png';
 import microphoneStage from './categoriesImage/MicrophoneStage.png';
 import briefCase from './categoriesImage/Briefcase.png';
